@@ -1,0 +1,5 @@
+com/nagarro/service/AuthenticateUser.class
+com/nagarro/models/User.class
+com/nagarro/util/HibernateUtil.class
+com/nagarro/controllers/UserController.class
+com/nagarro/constants/Constants.class
